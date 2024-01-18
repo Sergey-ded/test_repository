@@ -1,0 +1,6 @@
+C:\Users\bpk\Documents\GitHub\test_repositorry\project\burachkovgrigoriev\bin\Debug\burachkovgrigoriev.exe.config
+C:\Users\bpk\Documents\GitHub\test_repositorry\project\burachkovgrigoriev\bin\Debug\burachkovgrigoriev.exe
+C:\Users\bpk\Documents\GitHub\test_repositorry\project\burachkovgrigoriev\bin\Debug\burachkovgrigoriev.pdb
+C:\Users\bpk\Documents\GitHub\test_repositorry\project\burachkovgrigoriev\obj\Debug\burachkovgrigoriev.csprojResolveAssemblyReference.cache
+C:\Users\bpk\Documents\GitHub\test_repositorry\project\burachkovgrigoriev\obj\Debug\burachkovgrigoriev.exe
+C:\Users\bpk\Documents\GitHub\test_repositorry\project\burachkovgrigoriev\obj\Debug\burachkovgrigoriev.pdb
